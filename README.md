@@ -1,2 +1,2 @@
-# Projeto EEEP Manoel Mano
-Este repositório contém o código fonte e os recursos utilizados para o desenvolvimento do site da Escola Estadual de Educação Profissional Manoel Mano. O site foi criado como parte de um projeto para melhorar a comunicação e fornecer informações relevantes aos alunos, pais e membros da comunidade.
+# Página de Alunos Ingressantes em Universidades
+Este projeto consiste em uma página web para listar e exibir informações sobre alunos que ingressaram em universidades. Ele foi desenvolvido com o objetivo de fornecer uma plataforma simples e intuitiva para acompanhar o progresso dos alunos em sua jornada acadêmica.
