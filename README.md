@@ -13,3 +13,4 @@ O projeto que apresentamos é a criação do site da Escola Estadual de Educaç�
 - Back-End:
     [![GitHub](https://img.shields.io/badge/GitHub-joséluiz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseluiz03)
 - Design: [![GitHub](https://img.shields.io/badge/GitHub-kellyromualdo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kellyromualdo)
+# 🏡 Tela Inicial
