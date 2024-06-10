@@ -12,5 +12,6 @@ O projeto que apresentamos é a criação do site da Escola Estadual de Educaç�
     [![GitHub](https://img.shields.io/badge/GitHub-gustavohenrique-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/morc007)
 - Back-End:
     [![GitHub](https://img.shields.io/badge/GitHub-joséluiz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseluiz03)
+    [![GitHub](https://img.shields.io/badge/GitHub-davidsaboia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidSSF)
 - Design: [![GitHub](https://img.shields.io/badge/GitHub-kellyromualdo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kellyromualdo)
 # 🏡 Tela Inicial
