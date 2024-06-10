@@ -1,2 +1,2 @@
-# Página de Alunos Ingressantes em Universidades
-Este projeto consiste em uma página web para listar e exibir informações sobre alunos que ingressaram em universidades. Ele foi desenvolvido com o objetivo de fornecer uma plataforma simples e intuitiva para acompanhar o progresso dos alunos em sua jornada acadêmica.
+# Site EEEP Manoel Mano
+O projeto que apresentamos é a criação do site da Escola Estadual de Educação Profissional (EEEP) Manoel Mano. Este site tem como objetivo centralizar e facilitar o acesso a informações essenciais sobre a instituição, promovendo uma comunicação eficiente entre alunos, pais, professores e a comunidade em geral.
